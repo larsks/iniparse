@@ -1,0 +1,1 @@
+See http://code.google.com/p/iniparse/source/browse/trunk/Changelog
